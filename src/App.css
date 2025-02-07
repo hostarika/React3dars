@@ -1,0 +1,30 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 740px;
+}
+
+.box{
+    width: 600px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 2px 8px 8px 2px #00000040;
+    border-radius: 20px;
+}
+.son{
+  font-size: 100px;
+}
+.display{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.name{
+  color: #FFEE01;
+}
